@@ -1,8 +1,8 @@
-# Exile EasyBuild 0.2.14
+# Exile EasyBuild 0.2.15
 
 **Собери персонажа по чужому PoB и найди нужную вещь на трейде в один клик.** Бесплатный помощник для Path of Exile 1 на Windows 11 x64. Движок Path of Building Community Fork 2.67.2 входит в установщик.
 
-**[Скачать для Windows x64 · Download for Windows x64](https://github.com/ByJIkA/Exile-EasyBuild/releases/download/v0.2.14/ExileEasyBuild-0.2.14-Windows-x64.exe)** · [GitHub Release](https://github.com/ByJIkA/Exile-EasyBuild/releases/tag/v0.2.14) · [English](#english)
+**[Скачать для Windows x64 · Download for Windows x64](https://github.com/ByJIkA/Exile-EasyBuild/releases/download/v0.2.15/ExileEasyBuild-0.2.15-Windows-x64.exe)** · [GitHub Release](https://github.com/ByJIkA/Exile-EasyBuild/releases/tag/v0.2.15) · [English](#english)
 
 ## Как собрать билд по гайду
 
@@ -18,7 +18,11 @@
 
 ![Правила поиска торговли в русском интерфейсе](screenshots/v0.2.11/trade-ru.png)
 
-### Сохранение выбранного дерева в 0.2.14
+### Сохранение выбранного акта в 0.2.15
+
+В **«Собрать билд» → «Умения»** выбери **Act 2** и закрой приложение через **«Сохранить и выйти»**. При следующем запуске откроются «Умения» с тем же набором камней. Выбор запоминается отдельно для каждого билда и каждой стороны сравнения.
+
+### Выбранное дерево тоже сохраняется
 
 Выбери, например, дерево на 24-й уровень и нажми **«Сохранить и выйти»**. При следующем запуске откроется тот же вариант. Выбор запоминается для каждого билда и отдельно для целевого билда и твоего персонажа.
 
@@ -40,7 +44,7 @@
 
 **Build toward someone else’s PoB and find the gear on the official trade site in one click.** Exile EasyBuild is a free Path of Exile 1 companion for Windows 11 x64. The installer includes Path of Building Community Fork 2.67.2.
 
-**[Download v0.2.14 for Windows x64](https://github.com/ByJIkA/Exile-EasyBuild/releases/download/v0.2.14/ExileEasyBuild-0.2.14-Windows-x64.exe)**
+**[Download v0.2.15 for Windows x64](https://github.com/ByJIkA/Exile-EasyBuild/releases/download/v0.2.15/ExileEasyBuild-0.2.15-Windows-x64.exe)**
 
 1. Select **Load build** and paste a PoB code or pobb.in link. You can also import a poedb.tw/pob link, a PoE 1 character from poe.ninja, or a YouTube guide with supported build links in its description.
 2. Open **Build planner**. Choose your target stage on the left. Import your character or select an earlier stage on the right. Highlight differences to dim matching gear. The planner matches rings and flasks even when their slots differ.
@@ -54,7 +58,11 @@ Click an item **on the left gear stand** to open the official PoE trade site in 
 
 ![Trade search options in the English interface](screenshots/v0.2.11/trade-en.png)
 
-### Remember your tree choice in 0.2.14
+### Remember your act in 0.2.15
+
+Open **Build planner → Skills**, choose **Act 2**, and select **Save and exit**. Your next launch restores Skills with the same gem set. Each build and each side of the comparison keeps its own choice.
+
+### Your tree choice is remembered too
 
 Select a tree, such as the level 24 variant, and choose **Save and exit**. The next launch restores that choice. Each build keeps its own selection, with separate choices for your target and character.
 
