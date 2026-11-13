@@ -1,8 +1,8 @@
-# Exile EasyBuild 0.2.11
+# Exile EasyBuild 0.2.12
 
 **Собери персонажа по чужому PoB и найди нужную вещь на трейде в один клик.** Бесплатный помощник для Path of Exile 1 на Windows 11 x64. Движок Path of Building Community Fork 2.67.2 входит в установщик.
 
-**[Скачать для Windows x64 · Download for Windows x64](https://github.com/ByJIkA/Exile-EasyBuild/releases/download/v0.2.11/ExileEasyBuild-0.2.11-Windows-x64.exe)** · [GitHub Release](https://github.com/ByJIkA/Exile-EasyBuild/releases/tag/v0.2.11) · [English](#english)
+**[Скачать для Windows x64 · Download for Windows x64](https://github.com/ByJIkA/Exile-EasyBuild/releases/download/v0.2.12/ExileEasyBuild-0.2.12-Windows-x64.exe)** · [GitHub Release](https://github.com/ByJIkA/Exile-EasyBuild/releases/tag/v0.2.12) · [English](#english)
 
 ## Как собрать билд по гайду
 
@@ -18,11 +18,13 @@
 
 ![Правила поиска торговли в русском интерфейсе](screenshots/v0.2.11/trade-ru.png)
 
-### Что нового в 0.2.11
+### Что нового в 0.2.12
 
-В «Собрать билд» экипировка теперь видна сразу. Когда загружены оба билда, импорт и комплект аниматрона доступны в «Управлении билдами». Пустая временная сумка появляется при добавлении первого предмета.
+Открой **«Собрать билд» → «Умения»** и выбери набор камней автора. Для гайда по прокачке доступны Act 1, Act 2, Act 3 и Act 4-10, если они сохранены в PoB. Вкладка работает и с одним загруженным билдом. При сравнении двух персонажей набор выбирается отдельно для каждой стороны.
 
-Если соединение с YouTube прервалось, клиент может использовать ранее сохранённый список ссылок для этого видео и покажет его дату. При первой загрузке можно вставить описание с прямыми ссылками на этапы. Для скачивания самих PoB нужен доступ к сайтам билдов.
+Нажми на **название камня**, чтобы скопировать его. Клик по **иконке** открывает поиск по уровню и качеству на трейде.
+
+![Камни первого акта и копирование Summon Raging Spirit](screenshots/v0.2.12/act-gems.png)
 
 **Уже пользуешься приложением?** Нажми **«Обновить приложение» → «Скачать обновление» → «Сохранить и перезапустить»**. Клиент сохранит билд, этап, временную сумку и примерки перед установкой. Для первого запуска или старой версии без кнопки обновления используй установщик выше.
 
@@ -30,7 +32,7 @@
 
 **Build toward someone else’s PoB and find the gear on the official trade site in one click.** Exile EasyBuild is a free Path of Exile 1 companion for Windows 11 x64. The installer includes Path of Building Community Fork 2.67.2.
 
-**[Download v0.2.11 for Windows x64](https://github.com/ByJIkA/Exile-EasyBuild/releases/download/v0.2.11/ExileEasyBuild-0.2.11-Windows-x64.exe)**
+**[Download v0.2.12 for Windows x64](https://github.com/ByJIkA/Exile-EasyBuild/releases/download/v0.2.12/ExileEasyBuild-0.2.12-Windows-x64.exe)**
 
 1. Select **Load build** and paste a PoB code or pobb.in link. You can also import a poedb.tw/pob link, a PoE 1 character from poe.ninja, or a YouTube guide with supported build links in its description.
 2. Open **Build planner**. Choose your target stage on the left. Import your character or select an earlier stage on the right. Highlight differences to dim matching gear. The planner matches rings and flasks even when their slots differ.
@@ -44,11 +46,11 @@ Click an item **on the left gear stand** to open the official PoE trade site in 
 
 ![Trade search options in the English interface](screenshots/v0.2.11/trade-en.png)
 
-### New in 0.2.11
+### New in 0.2.12
 
-The compact planner puts both gear sets in view. Once both builds are loaded, use **Manage builds** for import settings and Animate Guardian gear. The temporary bag appears when you add an item.
+Open **Build planner → Skills** to browse the gem sets saved by the guide author, including per-act setups. Only one build is needed. When comparing two builds, choose a set independently on each side.
 
-If the YouTube connection times out, the app can reuse the saved stage links for that video and show their date. For a first import, paste the description with direct build links. Downloading the builds still requires access to the build hosts.
+Click a **gem name** to copy it. Click its **icon** to search trade for the displayed level and quality.
 
 **Already installed?** Choose **Update app → Download update → Save and restart**. The client saves your build, selected stage, bag and gear previews before installing. For a first install or a version without the update button, use the Windows installer above.
 
