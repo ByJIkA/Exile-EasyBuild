@@ -2,9 +2,9 @@
 
 **От чужого PoB — к своему билду.** Бесплатный помощник для Path of Exile 1: поставь образец рядом со своим персонажем и узнай, какую вещь стоит покупать следующей.
 
-**[⬇ Скачать для Windows 11 x64](https://github.com/ByJIkA/Exile-EasyBuild/releases/download/v0.2.1/ExileEasyBuild-0.2.1-Windows-x64.exe)** · [Тестовый релиз и SHA-256](https://github.com/ByJIkA/Exile-EasyBuild/releases/tag/v0.2.1) · [English ↓](#english)
+**[⬇ Скачать для Windows 11 x64](https://github.com/ByJIkA/Exile-EasyBuild/releases/download/v0.2.2/ExileEasyBuild-0.2.2-Windows-x64.exe)** · [Тестовый релиз и SHA-256](https://github.com/ByJIkA/Exile-EasyBuild/releases/tag/v0.2.2) · [English ↓](#english)
 
-В версии **0.2.1** кнопка **«Обновить приложение»** находится в левом меню над **«Поддержка автора»**. После загрузки нажми **«Сохранить и перезапустить»**. Клиент сохранит оба билда, вещи в сумке и примерки. Если у тебя версия 0.1, установи этот выпуск один раз.
+При запуске приложение проверяет обновления в фоне. Если вышла новая версия, кнопка **«Обновить приложение»** над **«Поддержка автора»** подсветится и покажет её номер. Скачивание запускаешь ты. После загрузки нажми **«Сохранить и перезапустить»**. Клиент сохранит оба билда, вещи в сумке и примерки. Если у тебя версия 0.1, установи этот выпуск один раз.
 
 ### Сколько даст щит из гайда именно тебе?
 
@@ -29,9 +29,9 @@
 
 **Compare the build you have with the one you want.** Exile EasyBuild is a free Windows companion for Path of Exile 1. Drop a reference item onto your character to see what it changes, then click the original item to look for it on the official trade site.
 
-**[Download the Windows x64 installer](https://github.com/ByJIkA/Exile-EasyBuild/releases/download/v0.2.1/ExileEasyBuild-0.2.1-Windows-x64.exe)** · [Release notes and checksum](https://github.com/ByJIkA/Exile-EasyBuild/releases/tag/v0.2.1)
+**[Download the Windows x64 installer](https://github.com/ByJIkA/Exile-EasyBuild/releases/download/v0.2.2/ExileEasyBuild-0.2.2-Windows-x64.exe)** · [Release notes and checksum](https://github.com/ByJIkA/Exile-EasyBuild/releases/tag/v0.2.2)
 
-**Update app** is in the left sidebar above **Support the author**. Choose **Save and restart** after the download to keep both builds, bag items and gear previews. If you use v0.1, install this release once.
+The app checks for updates silently on launch. When an update is available, **Update app** above **Support the author** lights up and shows the new version. You choose when to download it. Choose **Save and restart** after the download to keep both builds, bag items and gear previews. If you use v0.1, install this release once.
 
 1. Install the app and choose **English** in the top-right corner. Path of Building and Python are bundled.
 2. Select **Load build** and paste a PoB export code, a supported build link, or a YouTube guide with build links in its description.
