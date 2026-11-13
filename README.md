@@ -2,9 +2,9 @@
 
 **От чужого PoB — к своему билду.** Бесплатный помощник для Path of Exile 1: поставь образец рядом со своим персонажем и узнай, какую вещь стоит покупать следующей.
 
-**[⬇ Скачать для Windows 11 x64](https://github.com/ByJIkA/Exile-EasyBuild/releases/download/v0.2.3/ExileEasyBuild-0.2.3-Windows-x64.exe)** · [Тестовый релиз и SHA-256](https://github.com/ByJIkA/Exile-EasyBuild/releases/tag/v0.2.3) · [English ↓](#english)
+**[⬇ Скачать для Windows 11 x64](https://github.com/ByJIkA/Exile-EasyBuild/releases/download/v0.2.4/ExileEasyBuild-0.2.4-Windows-x64.exe)** · [Тестовый релиз и SHA-256](https://github.com/ByJIkA/Exile-EasyBuild/releases/tag/v0.2.4) · [English ↓](#english)
 
-В меню рядом с языком можно выбрать «Кузницу изгнанника», «Алхимическую мастерскую», «Багровый собор» или классическое оформление.
+В меню рядом с языком можно выбрать «Кузницу изгнанника», «Алхимическую мастерскую», «Багровый собор» или классическое оформление. Во вкладке «Собрать билд» образец и персонаж стоят рядом на оружейных стендах, страницах книги или в витражных нишах выбранной темы.
 
 При запуске приложение проверяет обновления в фоне. Если вышла новая версия, кнопка **«Обновить приложение»** над **«Поддержка автора»** подсветится и покажет её номер. Скачивание запускаешь ты. После загрузки нажми **«Сохранить и перезапустить»**. Клиент сохранит оба билда, вещи в сумке и примерки. Если у тебя версия 0.1, установи этот выпуск один раз.
 
@@ -31,9 +31,9 @@
 
 **Compare the build you have with the one you want.** Exile EasyBuild is a free Windows companion for Path of Exile 1. Drop a reference item onto your character to see what it changes, then click the original item to look for it on the official trade site.
 
-**[Download the Windows x64 installer](https://github.com/ByJIkA/Exile-EasyBuild/releases/download/v0.2.3/ExileEasyBuild-0.2.3-Windows-x64.exe)** · [Release notes and checksum](https://github.com/ByJIkA/Exile-EasyBuild/releases/tag/v0.2.3)
+**[Download the Windows x64 installer](https://github.com/ByJIkA/Exile-EasyBuild/releases/download/v0.2.4/ExileEasyBuild-0.2.4-Windows-x64.exe)** · [Release notes and checksum](https://github.com/ByJIkA/Exile-EasyBuild/releases/tag/v0.2.4)
 
-Choose Exile’s Forge, Alchemy Workshop, Crimson Cathedral or Classic next to the language selector.
+Choose Exile’s Forge, Alchemy Workshop, Crimson Cathedral or Classic next to the language selector. Build planner displays your gear and the reference side by side on forge racks, grimoire pages or stained-glass displays.
 
 The app checks for updates silently on launch. When an update is available, **Update app** above **Support the author** lights up and shows the new version. You choose when to download it. Choose **Save and restart** after the download to keep both builds, bag items and gear previews. If you use v0.1, install this release once.
 
