@@ -38,7 +38,7 @@
 
 ![Камни первого акта и копирование Summon Raging Spirit](screenshots/v0.2.12/act-gems.png)
 
-**Уже пользуешься приложением?** Нажми **«Обновить приложение» → «Скачать обновление» → «Сохранить и перезапустить»**. Клиент сохранит билд, этап, временную сумку и примерки перед установкой. Для первого запуска или старой версии без кнопки обновления используй установщик выше.
+**Уже пользуешься приложением?** При запуске клиент проверяет версию. Кнопка появляется, когда доступно обновление. Для установки нажми **«Обновить приложение» → «Скачать обновление» → «Сохранить и перезапустить»**. Клиент сохранит билд, этап, временную сумку и примерки перед установкой. Для первого запуска или старой версии без кнопки обновления используй установщик выше.
 
 ## English
 
@@ -74,7 +74,7 @@ Open **Build planner → Skills** to browse the gem sets saved by the guide auth
 
 Click a **gem name** to copy it. Click its **icon** to search trade for the displayed level and quality.
 
-**Already installed?** Choose **Update app → Download update → Save and restart**. The client saves your build, selected stage, bag and gear previews before installing. For a first install or a version without the update button, use the Windows installer above.
+**Already installed?** The app checks for updates at launch. The update button appears when a newer release is available. To install it, choose **Update app → Download update → Save and restart**. The client saves your build, selected stage, bag and gear previews before installing. For a first install or a version without the update button, use the Windows installer above.
 
 [Сообщить об ошибке · Report an issue](https://github.com/ByJIkA/Exile-EasyBuild/issues) · [Path of Building Community Fork](https://github.com/PathOfBuildingCommunity/PathOfBuilding)
 
