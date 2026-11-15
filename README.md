@@ -1,8 +1,8 @@
-# Exile EasyBuild 0.2.16
+# Exile EasyBuild 0.2.17
 
 **Собери персонажа по чужому PoB и найди нужную вещь на трейде в один клик.** Бесплатный помощник для Path of Exile 1 на Windows 11 x64. Движок Path of Building Community Fork 2.67.2 входит в установщик.
 
-**[Скачать для Windows x64 · Download for Windows x64](https://github.com/ByJIkA/Exile-EasyBuild/releases/download/v0.2.16/ExileEasyBuild-0.2.16-Windows-x64.exe)** · [GitHub Release](https://github.com/ByJIkA/Exile-EasyBuild/releases/tag/v0.2.16) · [English](#english)
+**[Скачать для Windows x64 · Download for Windows x64](https://github.com/ByJIkA/Exile-EasyBuild/releases/download/v0.2.17/ExileEasyBuild-0.2.17-Windows-x64.exe)** · [GitHub Release](https://github.com/ByJIkA/Exile-EasyBuild/releases/tag/v0.2.17) · [English](#english)
 
 ## Как собрать билд по гайду
 
@@ -18,9 +18,10 @@
 
 ![Правила поиска торговли в русском интерфейсе](screenshots/v0.2.11/trade-ru.png)
 
-### Что нового в 0.2.16
+### Что нового в 0.2.17
 
-При первой установке выбери русский или английский. При обновлении достаточно нажать **«Сохранить и перезапустить»**. Клиент сохранит прогресс, установит новую версию и откроется на выбранном языке. Повторно выбирать язык в установщике больше не потребуется.
+- **Soulwrest, уровни 1–12.** Ранний этап открывается со всеми 15 предметами кампанийного комплекта. В обзоре видно, почему для него PoB выбирает Shield Charge.
+- **Гнёзда самоцветов.** Каждый стенд показывает гнёзда своего этапа. При сравнении первого этапа Soulwrest с эндгеймом его ряд самоцветов остаётся пустым с любой стороны.
 
 ### Сохранение выбранного акта
 
@@ -48,7 +49,7 @@
 
 **Build toward someone else’s PoB and find the gear on the official trade site in one click.** Exile EasyBuild is a free Path of Exile 1 companion for Windows 11 x64. The installer includes Path of Building Community Fork 2.67.2.
 
-**[Download v0.2.16 for Windows x64](https://github.com/ByJIkA/Exile-EasyBuild/releases/download/v0.2.16/ExileEasyBuild-0.2.16-Windows-x64.exe)**
+**[Download v0.2.17 for Windows x64](https://github.com/ByJIkA/Exile-EasyBuild/releases/download/v0.2.17/ExileEasyBuild-0.2.17-Windows-x64.exe)**
 
 1. Select **Load build** and paste a PoB code or pobb.in link. You can also import a poedb.tw/pob link, a PoE 1 character from poe.ninja, or a YouTube guide with supported build links in its description.
 2. Open **Build planner**. Choose your target stage on the left. Import your character or select an earlier stage on the right. Highlight differences to dim matching gear. The planner matches rings and flasks even when their slots differ.
@@ -62,9 +63,10 @@ Click an item **on the left gear stand** to open the official PoE trade site in 
 
 ![Trade search options in the English interface](screenshots/v0.2.11/trade-en.png)
 
-### What’s new in 0.2.16
+### What’s new in 0.2.17
 
-Choose Russian or English during the first installation. For updates, click **Save and restart**. The app saves your progress, installs the update and reopens in your selected language. The installer skips the language prompt during updates.
+- **Soulwrest, levels 1–12.** The early stage opens with all 15 items from its campaign gear set. The overview explains why PoB selects Shield Charge for this stage.
+- **Jewel sockets.** Each gear stand shows its own stage’s sockets. When you compare the first Soulwrest stage with endgame, the early stage has no jewel slots on either side.
 
 ### Remember your act
 
