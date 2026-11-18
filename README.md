@@ -1,8 +1,8 @@
-# Exile EasyBuild 0.2.19
+# Exile EasyBuild 0.2.20
 
 **Собери персонажа по чужому PoB и найди нужную вещь на трейде в один клик.** Бесплатный помощник для Path of Exile 1 на Windows 11 x64. Движок Path of Building Community Fork 2.67.2 входит в установщик.
 
-**[Скачать для Windows x64 · Download for Windows x64](https://github.com/ByJIkA/Exile-EasyBuild/releases/download/v0.2.19/ExileEasyBuild-0.2.19-Windows-x64.exe)** · [GitHub Release](https://github.com/ByJIkA/Exile-EasyBuild/releases/tag/v0.2.19) · [English](#english)
+**[Скачать для Windows x64 · Download for Windows x64](https://github.com/ByJIkA/Exile-EasyBuild/releases/download/v0.2.20/ExileEasyBuild-0.2.20-Windows-x64.exe)** · [GitHub Release](https://github.com/ByJIkA/Exile-EasyBuild/releases/tag/v0.2.20) · [English](#english)
 
 ## Как собрать билд по гайду
 
@@ -18,10 +18,10 @@
 
 ![Правила поиска торговли в русском интерфейсе](screenshots/v0.2.11/trade-ru.png)
 
-### Что нового в 0.2.19
+### Что нового в 0.2.20
 
-- В **«Что заменить сначала» → «Аниматрон» → «Чей урон»** выбери самого аниматрона или одно оружие, призванное доспехом Chains of Command. Если в твоём PoB есть умения разных уровней, можно выбрать нужный уровень.
-- При выборе DPS список показывает, какая замена больше всего поможет выбранному приспешнику. Разверни предмет, чтобы увидеть его DPS до и после примерки. Для мечей все значения указаны на один меч.
+- **«Что заменить сначала» учитывает примерку.** Когда примеряешь вещь из образца, она исчезает из списка, а PoB пересчитывает пользу оставшихся замен с учётом текущей экипировки. Снятие примерки возвращает рекомендацию.
+- Для аниматрона можно по-прежнему выбрать его собственный DPS или DPS одного меча от Chains of Command. Этот выбор сохраняется при пересчёте списка.
 
 ### Сохранение выбранного акта
 
@@ -49,7 +49,7 @@
 
 **Build toward someone else’s PoB and find the gear on the official trade site in one click.** Exile EasyBuild is a free Path of Exile 1 companion for Windows 11 x64. The installer includes Path of Building Community Fork 2.67.2.
 
-**[Download v0.2.19 for Windows x64](https://github.com/ByJIkA/Exile-EasyBuild/releases/download/v0.2.19/ExileEasyBuild-0.2.19-Windows-x64.exe)**
+**[Download v0.2.20 for Windows x64](https://github.com/ByJIkA/Exile-EasyBuild/releases/download/v0.2.20/ExileEasyBuild-0.2.20-Windows-x64.exe)**
 
 1. Select **Load build** and paste a PoB code or pobb.in link. You can also import a poedb.tw/pob link, a PoE 1 character from poe.ninja, or a YouTube guide with supported build links in its description.
 2. Open **Build planner**. Choose your target stage on the left. Import your character or select an earlier stage on the right. Highlight differences to dim matching gear. The planner matches rings and flasks even when their slots differ.
@@ -63,10 +63,10 @@ Click an item **on the left gear stand** to open the official PoE trade site in 
 
 ![Trade search options in the English interface](screenshots/v0.2.11/trade-en.png)
 
-### What’s new in 0.2.19
+### What’s new in 0.2.20
 
-- In **What to upgrade first → Animate Guardian → Damage source**, choose the guardian or a single weapon animated by Chains of Command. If your PoB has several versions of the skill, choose the level you want to compare.
-- Sort by minion DPS to see which gear swap helps that minion most. Expand an item to see DPS before and after the swap. Animated weapon values are per weapon.
+- **What to upgrade first follows your try-ons.** Trying on a target item removes it from the list and PoB recalculates the remaining swaps with the current loadout. Undo the try-on to bring the recommendation back.
+- You can still choose the Animate Guardian's own DPS or the DPS of one Chains of Command weapon. Recalculating the list keeps your damage source selected.
 
 ### Remember your act
 
