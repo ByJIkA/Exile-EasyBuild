@@ -1,8 +1,8 @@
-# Exile EasyBuild 0.2.21
+# Exile EasyBuild 0.2.22
 
-**Собери персонажа по чужому PoB и найди нужную вещь на трейде в один клик.** Бесплатный помощник для Path of Exile 1 на Windows 11 x64. Движок Path of Building Community Fork 2.67.2 входит в установщик.
+**Собери персонажа по чужому PoB и найди нужную вещь на трейде в один клик.** Бесплатный помощник для Path of Exile 1 на Windows 11 x64. Движок Path of Building Community Fork 2.68.1 входит в установщик.
 
-**[Скачать для Windows x64 · Download for Windows x64](https://github.com/ByJIkA/Exile-EasyBuild/releases/download/v0.2.21/ExileEasyBuild-0.2.21-Windows-x64.exe)** · [GitHub Release](https://github.com/ByJIkA/Exile-EasyBuild/releases/tag/v0.2.21) · [English](#english)
+**[Скачать для Windows x64 · Download for Windows x64](https://github.com/ByJIkA/Exile-EasyBuild/releases/download/v0.2.22/ExileEasyBuild-0.2.22-Windows-x64.exe)** · [GitHub Release](https://github.com/ByJIkA/Exile-EasyBuild/releases/tag/v0.2.22) · [English](#english)
 
 ## Как собрать билд по гайду
 
@@ -18,10 +18,10 @@
 
 ![Правила поиска торговли в русском интерфейсе](screenshots/v0.2.11/trade-ru.png)
 
-### Что нового в 0.2.21
+### Что нового в 0.2.22
 
-- **«Что заменить сначала» считает быстрее.** PoB один раз рассчитывает текущий комплект и использует эти показатели как исходные для всех замен. Результаты появляются по мере готовности.
-- После примерки или её отмены PoB обновляет расчёт комплекта и проверяет оставшиеся замены. Это работает и для экипировки аниматрона с выбранным DPS одного меча от Chains of Command.
+- **Деревья пассивных умений PoE 3.30.** Можно импортировать билды с деревом 3.30 и выбирать сохранённые в PoB варианты дерева. После пересчёта некоторые показатели старых билдов могут отличаться от значений предыдущего движка.
+- **Кэш в «Что заменить сначала».** Если снять примеренную вещь и вернуться к уже рассчитанному комплекту, список замен сразу восстановится из кэша. Для нового комплекта расчёт запускается в PoB. Кэш хранит до четырёх комплектов и очищается при закрытии приложения.
 
 ### Сохранение выбранного акта
 
@@ -47,9 +47,9 @@
 
 ## English
 
-**Build toward someone else’s PoB and find the gear on the official trade site in one click.** Exile EasyBuild is a free Path of Exile 1 companion for Windows 11 x64. The installer includes Path of Building Community Fork 2.67.2.
+**Build toward someone else’s PoB and find the gear on the official trade site in one click.** Exile EasyBuild is a free Path of Exile 1 companion for Windows 11 x64. The installer includes Path of Building Community Fork 2.68.1.
 
-**[Download v0.2.21 for Windows x64](https://github.com/ByJIkA/Exile-EasyBuild/releases/download/v0.2.21/ExileEasyBuild-0.2.21-Windows-x64.exe)**
+**[Download v0.2.22 for Windows x64](https://github.com/ByJIkA/Exile-EasyBuild/releases/download/v0.2.22/ExileEasyBuild-0.2.22-Windows-x64.exe)**
 
 1. Select **Load build** and paste a PoB code or pobb.in link. You can also import a poedb.tw/pob link, a PoE 1 character from poe.ninja, or a YouTube guide with supported build links in its description.
 2. Open **Build planner**. Choose your target stage on the left. Import your character or select an earlier stage on the right. Highlight differences to dim matching gear. The planner matches rings and flasks even when their slots differ.
@@ -63,10 +63,10 @@ Click an item **on the left gear stand** to open the official PoE trade site in 
 
 ![Trade search options in the English interface](screenshots/v0.2.11/trade-en.png)
 
-### What’s new in 0.2.21
+### What’s new in 0.2.22
 
-- **What to upgrade first runs faster.** PoB calculates the current loadout once and uses those stats as the baseline for every swap. Results appear as they finish.
-- Trying on or removing an item refreshes the baseline and recalculates the remaining swaps. This also applies to Animate Guardian gear when comparing DPS for a single Chains of Command weapon.
+- **PoE 3.30 passive trees.** You can import builds with 3.30 trees and select the tree variants saved in PoB. Some stats on older builds may change when recalculated with the new engine.
+- **Cached results in What to upgrade first.** Remove a tried-on item to return to a cached loadout and see its recommendations immediately. PoB runs the calculations for new loadouts. The cache holds up to four loadouts and clears when you close the app.
 
 ### Remember your act
 
