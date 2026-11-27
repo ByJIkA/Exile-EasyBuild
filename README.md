@@ -1,8 +1,8 @@
-# Exile EasyBuild 0.2.23
+# Exile EasyBuild 0.2.24
 
 **Собери персонажа по чужому PoB и найди нужную вещь на трейде в один клик.** Бесплатный помощник для Path of Exile 1 на Windows 11 x64. Движок Path of Building Community Fork 2.68.1 входит в установщик.
 
-**[Скачать для Windows x64 · Download for Windows x64](https://github.com/ByJIkA/Exile-EasyBuild/releases/download/v0.2.23/ExileEasyBuild-0.2.23-Windows-x64.exe)** · [GitHub Release](https://github.com/ByJIkA/Exile-EasyBuild/releases/tag/v0.2.23) · [English](#english)
+**[Скачать для Windows x64 · Download for Windows x64](https://github.com/ByJIkA/Exile-EasyBuild/releases/download/v0.2.24/ExileEasyBuild-0.2.24-Windows-x64.exe)** · [GitHub Release](https://github.com/ByJIkA/Exile-EasyBuild/releases/tag/v0.2.24) · [English](#english)
 
 ## Как собрать билд по гайду
 
@@ -18,7 +18,11 @@
 
 ![Правила поиска торговли в русском интерфейсе](screenshots/v0.2.11/trade-ru.png)
 
-### Что нового в 0.2.23
+### Что нового в 0.2.24
+
+- **Автокрафт.** В новой вкладке открывается оригинальный Alt Roller 1.0.29. История, планировщик, симулятор и список предметов входят в установщик EasyBuild.
+
+### Мгновенная покупка
 
 - **Мгновенная покупка.** В «Собрать билд → Умения» способ покупки можно выбрать рядом с набором камней. Один выбор действует для камней и экипировки. Для новых настроек по умолчанию включена «Мгновенная покупка». Ранее сохранённый способ покупки восстанавливается при обновлении.
 
@@ -53,7 +57,7 @@
 
 **Build toward someone else’s PoB and find the gear on the official trade site in one click.** Exile EasyBuild is a free Path of Exile 1 companion for Windows 11 x64. The installer includes Path of Building Community Fork 2.68.1.
 
-**[Download v0.2.23 for Windows x64](https://github.com/ByJIkA/Exile-EasyBuild/releases/download/v0.2.23/ExileEasyBuild-0.2.23-Windows-x64.exe)**
+**[Download v0.2.24 for Windows x64](https://github.com/ByJIkA/Exile-EasyBuild/releases/download/v0.2.24/ExileEasyBuild-0.2.24-Windows-x64.exe)**
 
 1. Select **Load build** and paste a PoB code or pobb.in link. You can also import a poedb.tw/pob link, a PoE 1 character from poe.ninja, or a YouTube guide with supported build links in its description.
 2. Open **Build planner**. Choose your target stage on the left. Import your character or select an earlier stage on the right. Highlight differences to dim matching gear. The planner matches rings and flasks even when their slots differ.
@@ -67,7 +71,11 @@ Click an item **on the left gear stand** to open the official PoE trade site in 
 
 ![Trade search options in the English interface](screenshots/v0.2.11/trade-en.png)
 
-### What’s new in 0.2.23
+### What’s new in 0.2.24
+
+- **Auto Craft.** The new tab opens the original Alt Roller 1.0.29. Its history, planner, simulator and saved items are included in the EasyBuild installer.
+
+### Instant Buyout
 
 - **Instant Buyout.** In Build planner → Skills, choose a purchase method next to the gem set. The same choice applies to gems and gear. Instant Buyout is the default for new trade settings. Updates keep any saved purchase method.
 
