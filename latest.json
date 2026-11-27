@@ -1,9 +1,9 @@
 {
-  "version": "0.2.24",
+  "version": "0.2.29",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/ByJIkA/Exile-EasyBuild/releases/download/v0.2.24/ExileEasyBuild-0.2.24-Windows-x64.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROVBpRTQ3Ykw1WmE5Z0xVMDlnSFZSVTEyTmIwOXRCVEJMMXFSb1c0ZXJHSUdWS3pEdDhNM2NlVXVJempaUDJBRm11aVFqNWtob1dzM2JnK2FVcVJVYjk0MFpYNUNsOXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Nzc5NTAzCWZpbGU6RXhpbGVFYXN5QnVpbGQtU2V0dXAteDY0LmV4ZQl2ZXJzaW9uOjAuMi4yNApvUlhEaXIrMTI1WWpWek0xQktMT0tsT1o5NkRDeDlsb1Q1R0NscUFyQWkzRm5TZGQyY3EyNTV6R21CZGtMVTUvZGkvZXZ2R2w3aVZyQVhCemwwcDhDQT09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVROVBpRTQ3Ykw1WllNY3NBR3ZKVjBCbUtWVCtEbVEweW9WVm1Ra2Z2aTZtWUllczRHVUx6NytYNlhDMW5WSXBuR0YzKzhzalFDWklCa1M1TjF4MlE2SG5wKzdmdzc5MkFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODE3Nzk2CWZpbGU6RXhpbGVFYXN5QnVpbGQtU2V0dXAteDY0LmV4ZQl2ZXJzaW9uOjAuMi4yOQpTQ1lFVlJucUNrbUJDNjFhWGo2elFPOHNDWWRsTDN0UmxSR01YN1VUTSt0RzcvcEZIY084dlVTY1ZlemxNaGdBbXR1cmVDZUdMeWRpWit3U2tuSE5DUT09Cg==",
+      "url": "https://github.com/ByJIkA/Exile-EasyBuild/releases/download/v0.2.29/ExileEasyBuild-0.2.29-Windows-x64.exe"
     }
   }
 }
