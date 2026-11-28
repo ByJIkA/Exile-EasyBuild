@@ -1,8 +1,8 @@
-# Exile EasyBuild 0.2.30
+# Exile EasyBuild 0.2.31
 
 **Собери персонажа по чужому PoB и найди нужную вещь на трейде в один клик.** Бесплатный помощник для Path of Exile 1 на Windows 11 x64. Движок Path of Building Community Fork 2.68.1 входит в установщик.
 
-**[Скачать для Windows x64 · Download for Windows x64](https://github.com/ByJIkA/Exile-EasyBuild/releases/download/v0.2.30/ExileEasyBuild-0.2.30-Windows-x64.exe)** · [GitHub Release](https://github.com/ByJIkA/Exile-EasyBuild/releases/tag/v0.2.30) · [English](#english)
+**[Скачать для Windows x64 · Download for Windows x64](https://github.com/ByJIkA/Exile-EasyBuild/releases/download/v0.2.31/ExileEasyBuild-0.2.31-Windows-x64.exe)** · [GitHub Release](https://github.com/ByJIkA/Exile-EasyBuild/releases/tag/v0.2.31) · [English](#english)
 
 ## Как собрать билд по гайду
 
@@ -18,8 +18,9 @@
 
 ![Правила поиска торговли в русском интерфейсе](screenshots/v0.2.11/trade-ru.png)
 
-### Что нового в 0.2.30
+### Что нового в 0.2.31
 
+- **Переход с Alt Roller 1.0.30.** Нажми «Перейти на EasyBuild», обнови EasyBuild и выбери «Завершить переход». Старое приложение удалится, а настройки и история останутся в «Автокрафте».
 - **Автокрафт.** Alt Roller встроен в EasyBuild. История, симулятор и список предметов входят в общий установщик. Обновления и сообщения об ошибках доступны в этом репозитории.
 - **Инструкция.** Во вкладке «Автокрафт» собраны шаги первого крафта, сочетания клавиш и примеры настройки валюты и условий.
 
@@ -58,7 +59,7 @@
 
 **Build toward someone else’s PoB and find the gear on the official trade site in one click.** Exile EasyBuild is a free Path of Exile 1 companion for Windows 11 x64. The installer includes Path of Building Community Fork 2.68.1.
 
-**[Download v0.2.30 for Windows x64](https://github.com/ByJIkA/Exile-EasyBuild/releases/download/v0.2.30/ExileEasyBuild-0.2.30-Windows-x64.exe)**
+**[Download v0.2.31 for Windows x64](https://github.com/ByJIkA/Exile-EasyBuild/releases/download/v0.2.31/ExileEasyBuild-0.2.31-Windows-x64.exe)**
 
 1. Select **Load build** and paste a PoB code or pobb.in link. You can also import a poedb.tw/pob link, a PoE 1 character from poe.ninja, or a YouTube guide with supported build links in its description.
 2. Open **Build planner**. Choose your target stage on the left. Import your character or select an earlier stage on the right. Highlight differences to dim matching gear. The planner matches rings and flasks even when their slots differ.
@@ -72,8 +73,9 @@ Click an item **on the left gear stand** to open the official PoE trade site in 
 
 ![Trade search options in the English interface](screenshots/v0.2.11/trade-en.png)
 
-### What’s new in 0.2.30
+### What’s new in 0.2.31
 
+- **Migration from Alt Roller 1.0.30.** Click Switch to EasyBuild, update EasyBuild, then choose Finish migration to remove the old app and keep your settings and history in Auto Craft.
 - **Auto Craft.** Alt Roller is built into EasyBuild. History, the simulator and saved items are included in the shared installer. This repository hosts updates and issue reports.
 - **Instructions.** Open Auto Craft for a first-craft walkthrough, shortcuts, currency modes and examples of stopping conditions.
 
